@@ -1,4 +1,4 @@
-# Chainlink VRF V2 Smart Contract Analysis
+
 
 ## Introduction
 
